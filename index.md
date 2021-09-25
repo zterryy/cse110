@@ -13,7 +13,8 @@ I'm a third year CS student at `UCSD`
  ```
 
  I learned the github markdown on the site [GitHub Pages](https://pages.github.com/)
- you can go to the readme [here](CSE110-2/README.md)
+ 
+ you can go to the readme [here](README.md)
 
 Here's a list of random names:
 - Terry
@@ -21,9 +22,18 @@ Here's a list of random names:
 - Brandon
 - Jessica
 - Suki
+
+Here's a list of random names ordered:
+1. Terry
+2. James
+3. Suki
+
+
 Here are some of my goals:
 - [x] attend college
 - [ ] go to graduate school
 - [ ] travel the world
+
+go to the front of the page [here](#Name:Tianze-Zhang)
 
 
